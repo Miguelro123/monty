@@ -101,6 +101,8 @@ void push(stack_t **stack, unsigned int line_num)
 		_queue(stack, new);
 }
 
+#include "monty.h"
+
 /**
  * pall - print out all the stack
  * @stack: the stack
