@@ -148,6 +148,8 @@ julien@ubuntu:~/monty$
 - If you can’t malloc anymore, print the error message `Error: malloc failed`, followed by a new line, and exit with status `EXIT_FAILURE`.
 - You have to use `malloc` and `free` and are not allowed to use any other function from `man malloc` (realloc, calloc, …)
 
+---
+
 ## Quiz questions
 
 <details>
@@ -186,6 +188,8 @@ What’s the command used to remove a new element from a stack?
 - [x] pop
 
 </details>
+
+---
 
 ## Tasks
 
@@ -749,6 +753,8 @@ julien@ubuntu:~/monty/bf$
 * File: `1003-mul.bf`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
